@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Launching Orbital Detritus
+categories: sample
+image: tomtwittersnip.png
 date: 2021-01-02
 ---
 
