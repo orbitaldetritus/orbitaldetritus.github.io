@@ -1,6 +1,6 @@
 $icon-transition-time: 1.0s;
 $envelope-color: #f39c12;
-$mastodon-color: #00aced;
+$twitter-color: #00aced;
 $instagram-color: #375989;
 $github-color: #343434;
 $linkedin-color: #0073a4;
@@ -27,7 +27,7 @@ $rss-color: #ff6600;
   @include social-media-icon($envelope-color, $icon-transition-time);
 }
 
-.fa-mastodon {
+.fa-twitter {
   padding: 5px;
   @include social-media-icon($mastodon-color, $icon-transition-time);
 }
