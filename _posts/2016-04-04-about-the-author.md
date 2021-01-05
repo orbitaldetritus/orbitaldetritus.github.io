@@ -2,7 +2,7 @@
 layout: post
 title: "About the Author"
 author: "J. Thomas"
-categories: facts
+categories: about
 tags: [about]
 image: about-the-author.jpg
 ---
