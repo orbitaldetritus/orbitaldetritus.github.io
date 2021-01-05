@@ -2,7 +2,7 @@
 layout: post
 title: Launching Orbital Detritus
 categories: blog
-tags: [sample]
+tags: [blog]
 image: launchpost.jpg
 ---
 
